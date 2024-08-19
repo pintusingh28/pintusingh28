@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## About Me
 
-Self-taught Flutter Developer with over 4 years of experience in mobile and web app development. Expertise includes Android native development and backend development with Node.js. Demonstrates a strong passion for designing and creating visually appealing, user-friendly apps and websites.
+Self-taught Flutter Developer with over 4+ years of experience in mobile and web app development. Expertise includes Android native development and backend development with Node.js. Demonstrates a strong passion for designing and creating visually appealing, user-friendly apps and websites.
 
 Committed to continuous learning and adaptation to emerging technologies to enhance skills and expand expertise. Proven track record of improving digital experiences for clients and colleagues.
 
