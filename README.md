@@ -27,7 +27,7 @@ Actively contributes to open source projects, supporting developer community and
 
 Feel free to reach out if you have any questions or just want to connect!
 
-[![Email](https://img.shields.io/badge/Email-pintusingh2811@proton.me-6D4AFF?logo=protonmail&logoColor=FFFFFF)](mailto:pintusingh2811@proton.me)
+[![Email](https://img.shields.io/badge/Email-work@pintusingh28.dev-6D4AFF?logo=gmail&logoColor=FFFFFF)](mailto:work@pintusingh28.dev)
 
 [![GitHub](https://img.shields.io/badge/GitHub-pintusingh28-181717?logo=github&logoColor=FFFFFF)](https://www.github.com/pintusingh28)
 
