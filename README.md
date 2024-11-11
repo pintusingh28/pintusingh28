@@ -1,34 +1,34 @@
-<!--
-**pintusingh28/pintusingh28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Hi there, I'm Pintu Singh 👋
 
-## About Me
+---
 
-Self-taught Flutter Developer with over 4+ years of experience in mobile and web app development. Expertise includes Android native development and backend development with Node.js. Demonstrates a strong passion for designing and creating visually appealing, user-friendly apps and websites.
+### 👨‍💻 About Me
 
-Committed to continuous learning and adaptation to emerging technologies to enhance skills and expand expertise. Proven track record of improving digital experiences for clients and colleagues.
+I'm a self-taught **Flutter Developer** with over 4 years of experience in mobile and web app development, blending **native Android development** expertise with strong backend skills in **Node.js**. My passion lies in designing and building visually appealing, user-centered applications that solve real-world problems and enhance digital experiences for users.
 
-Actively contributes to open source projects, supporting developer community and collaborating with talented individuals.
+Dedicated to staying at the forefront of technology, I actively pursue continuous learning to adapt to emerging tools and frameworks, and I'm committed to sharing knowledge and supporting the developer community through open-source contributions. I take pride in my work and strive to deliver high-quality, scalable solutions that meet the needs of clients and users alike.
 
-## Get in Touch
+---
 
-Feel free to reach out if you have any questions or just want to connect!
+### 🛠️ Tech Stack
 
-[![Email](https://img.shields.io/badge/Email-work@pintusingh28.dev-6D4AFF?logo=gmail&logoColor=FFFFFF)](mailto:work@pintusingh28.dev)
+- **Frontend:** Flutter, Dart, Android Native (Java/Kotlin)
+- **Backend:** Node.js, RESTful API Development
+- **Database & Cloud:** Firebase (Authentication, Realtime Database, Firestore), MySQL, MongoDB
+- **Additional Skills:** In-App Purchases, Payment Integration (Stripe, Razorpay, PayStack), CI/CD pipelines, Deep Linking
 
-[![GitHub](https://img.shields.io/badge/GitHub-pintusingh28-181717?logo=github&logoColor=FFFFFF)](https://www.github.com/pintusingh28)
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-pintusingh28-0A66C2?logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/pintusingh28)
+### 🌟 Key Accomplishments
+
+- **Professional Experience:** Developed and launched multiple production-ready apps with seamless cross-platform performance and positive user feedback.
+- **Open Source Contributor:** Actively contribute to various open-source projects, collaborating with talented developers and supporting the broader tech community.
+- **Learning & Growth:** Constantly exploring new technologies and recently diving into cloud solutions and advanced Flutter animations for richer user experiences.
+
+---
+
+### 🌐 Connect with Me
+
+I'm always open to connecting with like-minded developers and exploring new opportunities for collaboration. Feel free to reach out if you have questions, ideas, or just want to connect!
+
+[Portfolio](https://pintusingh28.dev) | [LinkedIn](https://linkedin.com/in/pintusingh28) | [Upwork](https://upwork.com/freelancers/pintusingh28) | [Email](mailto:work@pintusingh28.dev)
