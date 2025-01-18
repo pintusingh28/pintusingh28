@@ -32,8 +32,13 @@ Dedicated to staying at the forefront of technology, I actively pursue continuou
 - [Project Management](https://www.mygreatlearning.com/certificate/JMOFIMUR) - Issues By GreatLearning
 - [UI/UX for Beginner](https://www.mygreatlearning.com/certificate/LTLHYOXD) - Issues By GreatLearning
 
+---
+
 ### 🌐 Connect with Me
 
 I'm always open to connecting with like-minded developers and exploring new opportunities for collaboration. Feel free to reach out if you have questions, ideas, or just want to connect!
 
-[Portfolio](https://pintusingh28.dev) | [LinkedIn](https://linkedin.com/in/pintusingh28) | [Upwork](https://upwork.com/freelancers/pintusingh28) | [Email](mailto:work@pintusingh28.dev)
+- Portfolio - [https://pintusingh28.dev](https://pintusingh28.dev)
+- LinkedIn - [@pintusingh28](https://linkedin.com/in/pintusingh28)
+- Upwork - [@pintusingh28](https://upwork.com/freelancers/pintusingh28)
+- Email - [work@pintusingh28.dev](mailto:work@pintusingh28.dev) | [pintusingh28@icloud.com](mailto:pintusingh28@icloud.com)
