@@ -27,6 +27,11 @@ Dedicated to staying at the forefront of technology, I actively pursue continuou
 
 ---
 
+### 🚀 Certifications
+
+- [Project Management](https://www.mygreatlearning.com/certificate/JMOFIMUR) - Issues By GreatLearning
+- [UI/UX for Beginner](https://www.mygreatlearning.com/certificate/LTLHYOXD) - Issues By GreatLearning
+
 ### 🌐 Connect with Me
 
 I'm always open to connecting with like-minded developers and exploring new opportunities for collaboration. Feel free to reach out if you have questions, ideas, or just want to connect!
