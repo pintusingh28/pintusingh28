@@ -1,12 +1,12 @@
 # Hi there, I'm Pintu Singh 👋  
-**Flutter Developer | Full-Stack Mobile App Engineer**  
+**Senior Software Engineer - Flutter | Full-Stack Mobile App Engineer**  
 *Building Scalable Solutions for iOS, Android & Web*  
 
 ---
 
 ## 👨‍💻 About Me  
 
-I’m a **self-taught Flutter Developer** with **4+ years of experience** crafting cross-platform mobile apps and backend systems. I specialize in:  
+I’m a **self-taught Flutter Developer** with **5+ years of experience** crafting cross-platform mobile apps and backend systems. I specialize in:  
 ✅ **Flutter & Dart**: Pixel-perfect, performant apps for iOS/Android.  
 ✅ **Native Android**: Java/Kotlin expertise for complex, platform-specific features.  
 ✅ **Full-Stack Development**: End-to-end solutions with Node.js, RESTful APIs, and cloud services (Firebase, MongoDB).  
@@ -19,7 +19,7 @@ Passionate about open-source collaboration, I actively contribute to developer c
 
 ## 🛠️ Technical Expertise  
 
-| **Frontend**      | **Backend & Cloud**       | **Tools & Integrations**       |  
+| **Frontend**       | **Backend & Cloud**       | **Tools & Integrations**        |  
 |--------------------|---------------------------|---------------------------------|  
 | Flutter & Dart     | Node.js                   | Firebase (Auth, Firestore)      |  
 | Android (Kotlin)   | RESTful APIs              | Stripe/Razorpay/PayStack        |  
@@ -39,7 +39,7 @@ Passionate about open-source collaboration, I actively contribute to developer c
 
 ## 📜 Certifications  
 
-| **Certification**       | **Issuer**         | **Link**                                   |  
+| **Certification**        | **Issuer**         | **Link**                                   |  
 |--------------------------|--------------------|--------------------------------------------|  
 | Project Management       | Great Learning     | [View](https://www.mygreatlearning.com/certificate/JMOFIMUR) |  
 | UI/UX Fundamentals       | Great Learning     | [View](https://www.mygreatlearning.com/certificate/LTLHYOXD) |  
